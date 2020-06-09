@@ -37,7 +37,7 @@ class Landing extends React.Component {
     );
   }
 }
-
+// this map state to properties
 const mapStateToProps = state => ({
   searchTerm: state.searchTerm
 });
